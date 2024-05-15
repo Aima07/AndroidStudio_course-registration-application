@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Mata kuliah</string>
+    
+
+    <string name="mk1"> Agama</string>
+    <string name="mk2"> Algoritma dan Pemograman I
+</string>
+    <string name="mk3"> Algoritma dan Pemograman II
+</string>
+    <string name="mk4"> Bahasa Inggris I
+</string>
+    <string name="mk5"> Bahasa Inggris II
+</string>
+    <string name="mk6"> Digital Preneurship
+</string>
+    <string name="mk7"> Fisika Dasar
+</string>
+    <string name="mk8"> Jaringan Komputer I
+</string>
+    <string name="mk9"> Jaringan Komputer II
+</string>
+    <string name="mk10"> Kewarganegaraan
+</string>
+    <string name="mk11"> Literasi Digital
+</string>
+    <string name="mk12"> Manajemen Proyek Perangkat Lunak
+</string>
+    <string name="mk13"> Matematika Dasar
+</string>
+    <string name="mk14"> Matematika Informatika
+</string>
+    <string name="mk15"> Metode Numerik
+</string>
+    <string name="mk16"> Object Orientasi Analysis and Design
+</string>
+    <string name="mk17"> Organisasi dan Arsitektur Komputer
+</string>
+    <string name="mk18"> Pancasila
+</string>
+    <string name="mk19"> Pemograman Berorientasi Objek I
+</string>
+    <string name="mk20"> Pemograman Berorientasi Objek II
+</string>
+    <string name="mk21"> Pemograman Mobile I
+</string>
+    <string name="mk22"> Pemograman Web I
+</string>
+    <string name="mk23"> Pemograman Web II
+</string>
+    <string name="mk24"> Pengantar Teknologi Informasi
+</string>
+    <string name="mk25"> Rekayasa Perangkat Lunak
+</string>
+    <string name="mk26"> Sistem Basis Data
+</string>
+    <string name="mk27"> Sistem Operasi
+</string>
+    <string name="mk28"> Statistika
+</string>
+    <string name="mk29"> Struktur Data
+</string>
+    <string name="mk30"> Teknik Kompilasi
+</string>
+    <string name="mk31"> Teori Bahasa Otomata
+</string>
+
+</resources>
